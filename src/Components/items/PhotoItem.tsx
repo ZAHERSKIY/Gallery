@@ -47,9 +47,6 @@ const style = StyleSheet.create({
   list: {
     padding: 4,
     flex: 1,
-    // justifyContent: 'center',
-    // alignItems: 'center',
-    flexDirection: 'row',
     marginTop: 8,
     marginHorizontal: 5,
     shadowColor: '#000',
